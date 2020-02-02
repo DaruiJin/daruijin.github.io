@@ -91,6 +91,24 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+publications:
+    title: Publications
+    papers:
+      - title: Distribution information based intuitionistic fuzzy clustering for infrared ship segmentation
+        link: "https://www.researchgate.net/publication/333334429_Distribution_Information_Based_Intuitionistic_Fuzzy_Clustering_for_Infrared_Ship_Segmentation"
+        authors: Darui Jin, Xiangzhi Bai
+        conference: IEEE Transactions on Fuzzy Systems (TFS), 2019
+
+      - title: Integrating Structural Symmetry and Local Homoplasy Information in Intuitionistic Fuzzy Clustering for Infrared Pedestrian Segmentation
+        link: "https://www.researchgate.net/profile/Darui_Jin2/publication/335468693_Integrating_Structural_Symmetry_and_Local_Homoplasy_Information_in_Intuitionistic_Fuzzy_Clustering_for_Infrared_Pedestrian_Segmentation/links/5e358fc4458515072d75eb35/Integrating-Structural-Symmetry-and-Local-Homoplasy-Information-in-Intuitionistic-Fuzzy-Clustering-for-Infrared-Pedestrian-Segmentation.pdf?origin=profileFeaturedResearchPublicationItem"
+        authors: Darui Jin, Xiangzhi Bai, Yingfan Wang
+        conference: IEEE Transactions on Systems Man and Cybernetics-Systems, 2019
+
+      - title: Patch-Sparsity-Based Image Inpainting Through a Facet Deduced Directional Derivative
+        link: "https://www.researchgate.net/publication/325274840_Patch-Sparsity-Based_Image_Inpainting_through_Facet_Deduced_Directional_Derivative"
+        authors: Darui Jin, Xiangzhi Bai
+        conference: IEEE Transactions on Circuits and Systems for Video Technology (CSVT), vol. 29, no. 5, 1310-1324, 2019
+
 experiences:
     - role: Lead Developer
       time: 2015 - Present
