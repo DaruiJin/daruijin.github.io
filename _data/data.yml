@@ -7,41 +7,36 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Darui Jin
+    tagline: Ph.D student
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: daruijin@buaa.edu.cn
+    website: www.researchgate.net/profile/Darui_Jin2 #do not add http://
+    github: DaruiJin
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Chinese
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: English
+        level: Skilled
 
     interests:
-      - item: Climbing
+      - item: Basketball
         link:
 
-      - item: Snowboarding
+      - item: Badminton
         link:
 
-      - item: Cooking
+      - item: Watching films
         link:
 
 career-profile:
